@@ -1,6 +1,6 @@
-# Nuxt Electron Vuetify Starter Template
+# Nuxt + Electron + Vuetify Starter
 
-> Nuxt + Electron + Vuetify
+*Combines [nuxt-community/electron-template](https://github.com/nuxt-community/electron-template) and [vuetifyjs/nuxt](https://github.com/vuetifyjs/nuxt)*
 
 Copy this repository and then run build setup.
 
